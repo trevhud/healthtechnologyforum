@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName " Statistics"
+AuthName "healthtechnologyforum.com Statistics"
+AuthUserFile /var/chroot/home/content/05/10065105/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html

@@ -1,0 +1,3032 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid " @ "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid " Attached "
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:24
+msgid "%1$s "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "%d (%d items)"
+msgstr ""
+
+#. Text in function
+#: evento/pagination.php:1
+msgid "&laquo; Previous"
+msgstr ""
+
+#. Text in echo
+#: evento/single-speaker.php:72
+msgid "'s details"
+msgstr ""
+
+#. Text in echo
+#: evento/single-speaker.php:103
+msgid "'s presentations"
+msgstr ""
+
+#. Text in echo
+#: evento/archive.php:27
+msgid "<h2 class=\"entry-title \">Conferences</h2>"
+msgstr ""
+
+#. Text in echo
+#: evento/archive.php:25
+msgid "<h2 class=\"entry-title \">Presentations</h2>"
+msgstr ""
+
+#. Text in echo
+#: evento/archive.php:23
+msgid "<h2 class=\"entry-title \">Speakers</h2>"
+msgstr ""
+
+#. Text in echo
+#: evento/archive.php:29
+msgid "<h2 class=\"entry-title \">Testimonials</h2>"
+msgstr ""
+
+#. Text in echo
+#: evento/archive.php:31
+msgid "<h2 class=\"entry-title page-title archive\">Blog Archives</h2>"
+msgstr ""
+
+#. Text in function
+#: evento/archive.php:17
+msgid "<h2 class=\"entry-title page-title archive\">Daily Archives: <span>%s</span></h2>"
+msgstr ""
+
+#. Text in function
+#: evento/archive.php:19
+msgid "<h2 class=\"entry-title page-title archive\">Monthly Archives: <span>%s</span></h2>"
+msgstr ""
+
+#. Text in function
+#: evento/archive.php:21
+msgid "<h2 class=\"entry-title page-title archive\">Yearly Archives: <span>%s</span></h2>"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "<strong>ERROR</strong>: All fields are required."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "<strong>ERROR</strong>: The email field is empty."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#. Text in echo
+#: evento/author-box.php:10
+msgid "About"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Add Comment"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Conference Event"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Exhibitor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Category"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Exhibitor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Presentation"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Add New Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Speaker"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Sponsor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Tag"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add New Testimonial"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Presentation"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Product"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:83
+#: evento/lib/php/shcode/conference.php:90
+#: evento/lib/php/shcode/conference.php:97
+#: evento/lib/php/shcode/conference.php:105
+#: evento/lib/php/shcode/conference.php:114
+msgid "Add Shortcode"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Speaker"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Speaker Aditional Info"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Speakers"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Sponsor"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/table.php:51
+msgid "Add Table"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Testimonial"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add Testimonial Aditional Info"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add new Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add or remove Tags"
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:20
+msgid "Add to Delicious!"
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:22
+msgid "Add to Google"
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:23
+msgid "Add to Myspace"
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:21
+msgid "Add to Technorati"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Add to slideshow"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/table.php:20
+msgid "Additional class:"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/map.class.php:308
+msgid "Aditional Info"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "All Categories"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "All Tags"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/tweets.php:47
+msgid "Animated"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:75
+msgid "Animated testimonials"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "April"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/main.php:1
+msgid "Archive by category"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Archive this event"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/main.php:1
+msgid "Articles posted by "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Attach Presentation Documents:"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Attach Speaker to Presentation"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Attach Testimonial to Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Attach document"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Attach this Exhibitor to Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Attach this Presentation to Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Attach this Sponsor to Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Attachment Posts Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "August"
+msgstr ""
+
+#. Text in function
+#: evento/author.php:17
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Author Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Author name"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Author title"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Auto generate next/prev buttons"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/main.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in echo
+#: evento/index.php:8
+msgid "Blog Page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Blog Post Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Blogging"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/main.php:25
+msgid "Button"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Checkout"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Checkout Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Choose from the most used tags"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.class.php:234
+msgid "Close"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/main.php:24
+msgid "Columns"
+msgstr ""
+
+#. Text in echo
+#: evento/comments.php:83
+#: evento/lib/php/widget/latest_posts.php:53
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: evento/comments.php:83
+#: evento/lib/php/widget/latest_posts.php:53
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/latest_posts.php:65
+msgid "Comments Off"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Compose Conference Program"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Compose slideshow (drag and drop items to rearange position)"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/shcode/main.php:30
+msgid "Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/exhibitors.php:1
+#: evento/lib/php/resources.register.php:1
+msgid "Conference Exhibitors"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/widget/guests.php:1
+msgid "Conference Guests"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Conference Location"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Conference Posts Permalink slug"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Conference Posts Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/presentations.php:1
+#: evento/lib/php/resources.register.php:1
+msgid "Conference Presentations"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/program.php:1
+msgid "Conference Program"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Conference Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/speakers.php:1
+msgid "Conference Speakers"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/sponsors.php:1
+#: evento/lib/php/resources.register.php:1
+msgid "Conference Sponsors"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/animated_sponsors.php:1
+msgid "Conference Sponsors Animated"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Conference Testimonial"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Conference Tickets"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/exhibitors.php:1
+msgid "Conference exhibitors"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/guests.php:1
+msgid "Conference guests"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/presentations.php:1
+msgid "Conference presentations"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/program.php:1
+msgid "Conference program"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/registration.php:1
+msgid "Conference registration"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/speakers.php:1
+msgid "Conference speakers"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/animated_sponsors.php:1
+#: evento/lib/php/widget/sponsors.php:1
+msgid "Conference sponsors"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/testimonials.php:1
+msgid "Conference testimonials"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:6
+#: evento/lib/php/resources.register.php:1
+msgid "Conferences"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/map.class.php:302
+#: evento/lib/php/widget/social_media.php:67
+msgid "Contact email"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/map.class.php:284
+msgid "Contact phone 1"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/map.class.php:290
+msgid "Contact phone 2"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/contact.php:1
+msgid "Contact us"
+msgstr ""
+
+#. Text in echo
+#: evento/tag.php:69
+#: evento/archive.php:110
+#: evento/search.php:41
+#: evento/author.php:82
+#: evento/category.php:68
+#: evento/index.php:68
+msgid "Continue reading"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "CosmoThemes"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "CosmoThemes notifications."
+msgstr ""
+
+#. Text in function
+#: evento/single-speaker.php:110
+#: evento/lib/php/resources.register.php:1
+msgid "Country"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/table.php:27
+msgid "Custom CSS styles:"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Custom Favicon"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Custom Logo URL"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Custom URL"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "December"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/registration.php:67
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/map.class.php:277
+msgid "Description Info "
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:19
+msgid "Digg it"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Disable registration"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/contact.php:1
+msgid "Display Contact form"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/testimonials.php:1
+msgid "Display Testimonials from a Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/animated_sponsors.php:1
+msgid "Display animated list of Sponsors from a Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/conferences.php:1
+msgid "Display list of Events"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/exhibitors.php:1
+msgid "Display list of Exhibitors from a Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/presentations.php:1
+msgid "Display list of Presentations from a Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/speakers.php:1
+msgid "Display list of Speakers from a Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/sponsors.php:1
+msgid "Display list of Sponsors from a Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/program.php:1
+msgid "Display list of events from a Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/social_media.php:1
+msgid "Display list of social media icons"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/guests.php:1
+msgid "Display list whit guests from a Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/registration.php:1
+msgid "Display registration box"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Display slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Document location"
+msgstr ""
+
+#. Text in echo
+#: evento/single-presentation.php:93
+msgid "Download presentation"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/contact.php:35
+msgid "Drag and drop the marker location. To use google map, set the key in panel management"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "E-mail"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:48
+#: evento/post-meta-top.php:5
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Category"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Exhibitor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Presentation"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Speaker"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Sponsor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Tag"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Edit Testimonial"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/meta.class.php:1
+msgid "Edit post"
+msgstr ""
+
+#. Text in function
+#: evento/single-speaker.php:110
+#: evento/lib/php/resources.register.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/map.class.php:30
+msgid "Email "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Enable"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable Cosmothemes news notification"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable Developer/Sandbox Testing?"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable comments for attachment posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable conference registration"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable notification about new theme version"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for attachment posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for author page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for conference posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for exhibitor posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for presentation posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for speaker posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable social sharing for sponsor posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enable text-based Site Title and Tagline."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Enable/Disable registration"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "End event"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Enter the email address you have associated with your PayPal&reg; Business account."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/main.php:1
+msgid "Error 404"
+msgstr ""
+
+#. Text in echo
+#: evento/loop-404.php:21
+msgid "Error 404, page, post or resource can not be found"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Error, please select \"ico\" type media file"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Event description"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Event title"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/conferences.php:1
+msgid "Events"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/conferences.php:1
+msgid "Events list"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Exhibitor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Exhibitor Posts Permalink slug"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Exhibitor Posts Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Exhibitor Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Exhibitor's Conferences"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:9
+#: evento/lib/php/resources.register.php:1
+msgid "Exhibitors"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/registration.php:61
+msgid "External registration link"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/social_media.php:52
+msgid "Facebook ID"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Facebook profile ID"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/map.class.php:296
+msgid "Fax"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/map.class.php:29
+msgid "Fax "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "February"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/flickr.php:76
+msgid "Flickr Photos"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/text.class.php:1
+msgid "Font Family"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/text.class.php:1
+msgid "Font Size"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/text.class.php:1
+msgid "Font Weight"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Footer First Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Footer Second Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Footer Third Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Free attending"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Front Latest Conference content length"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Front Page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Front Page Bottom Left Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Front Page Bottom Middle Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Front Page Bottom Right Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Front Page Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Front Page Top Left Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Front Page Top Middle Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Front Page Top Right Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/options.register.php:1
+msgid "Full Width"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.class.php:1
+msgid "Gallery Type"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "General Blog Page Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "General Blog Posts Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Get New Password"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Google map key"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:12
+msgid "Guests"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/map.class.php:320
+msgid "Hide Contact form"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/menu.class.php:1
+#: evento/lib/php/main.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Host country"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "How often to ckeck for new tweets (in minutes)"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "If Quantity is not set, you won't be able to sell this item"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "If none is selected, then the latest event will show up on the front page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "If not completed description, will be used post excerpt <br />(<strong>first 180 chars</strong>), if not completed post excerpt, will be used <br />post content (<strong>first 180 chars</strong>)."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "If set, Facebook icon will appear in the header area."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "If set, Twitter icon will appear in the header area."
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/registration.php:63
+msgid "If the ablove field is set then registration will link to it"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "If this field is not set then \"Read More\" link will link to the selected custom post(ignore the hint for simple images))."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "If title is not completed, post title will be used)."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "If you wish to set blog page go to "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "In your PayPal&reg; account, go to: Profile -> Request API Credentials."
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/main.php:27
+msgid "Info Box"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/contact.php:40
+msgid "Insert Contact Form"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Institution"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "January"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/tweets.php:204
+#: evento/lib/php/tweets.class.php:1
+msgid "Join the conversation"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "July"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "June"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/flickr.php:72
+msgid "Latest Photo"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/latest_posts.php:1
+msgid "Latest Posts"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/registration.php:43
+#: evento/lib/php/widget/registration.php:45
+msgid "Latest conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/tweets.php:1
+msgid "Latest tweets"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout Page Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Layout and Sidebars"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for 404 page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Archive page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Author page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Blog Page page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Category page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Pages page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Search page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Single Blog post"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Single Conference page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Single Exhibitor page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Single Presentation page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Single Speaker page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Single Sponsor page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Layout for Tags page"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/options.register.php:1
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/social_media.php:62
+msgid "LinkedIn Public Profile URL"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:74
+msgid "List of all testimonials"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "List of generic dinamic Sidebars"
+msgstr ""
+
+#. Text in function
+#: evento/slideshow.php:280
+msgid "Location"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Log In"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+#: evento/header.php:214
+msgid "Log in"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Log out?"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Login"
+msgstr ""
+
+#. Text in echo
+#: evento/header.php:208
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: evento/signup.php:25
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Lost your password?"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Manage Slideshow"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/main.php:29
+msgid "Map/Contact"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "March"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "May"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Menu Settings"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/contact.class.php:70
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Category Name"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Exhibitor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Presentation"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Speaker"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Sponsor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Tag"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "New Testimonial"
+msgstr ""
+
+#. Text in function
+#: evento/pagination.php:1
+msgid "Next &raquo;"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Nothing found in Trash"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "November"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/exhibitors.php:88
+msgid "Number exhibitors to display"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/table.php:13
+msgid "Number of Columns:"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/table.php:8
+msgid "Number of Rows:"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/conferences.php:73
+#: evento/lib/php/widget/program.php:67
+msgid "Number of events to display"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/guests.php:58
+msgid "Number of guests to display"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/tweets.php:43
+msgid "Number of latest tweets to show"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/flickr.php:63
+msgid "Number of photos"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/latest_posts.php:106
+msgid "Number of posts"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/presentations.php:83
+msgid "Number of presentations to display"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Number of similar posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Number of similar speakers"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/speakers.php:80
+msgid "Number of speakers to display"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/sponsors.php:88
+msgid "Number of sponsors to display"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/testimonials.php:55
+msgid "Number of testimonials to display"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/animated_sponsors.php:71
+msgid "Number of visible sponsors"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "October"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Only enable this if you have provided Sandbox credentials above. <br/> This puts the API, IPN, PDT and Form/Button Generators all into Sandbox mode."
+msgstr ""
+
+#. Text in function
+#: evento/related-posts.php:409
+msgid "Other guests"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/main.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Page Author Box"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Page Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Paid registration"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Parent Category"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Parent Category:"
+msgstr ""
+
+#. Text in echo
+#: evento/signup.php:12
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Password Lost and Found"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Paste your Google Analytics or other tracking code here,<br /> and it will be added into the footer of your template."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Pause slideshow on hovering"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "PayPal&reg; Account Details ( required, if using PayPal&reg; )"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Phone"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/shcode.class.php:1
+msgid "Phone 1"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/map.class.php:27
+msgid "Phone 1 "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/map.class.php:28
+msgid "Phone 2 "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/flickr.php:76
+msgid "Photo Gallery"
+msgstr ""
+
+#. Text in echo
+#: evento/comments.php:47
+msgid "Pingback"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Please select 'ico' type media file. Make sure you allow uploading 'ico' type in General Settings -> Upload file types."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/exhibitors.php:126
+#: evento/lib/php/widget/registration.php:72
+#: evento/lib/php/widget/speakers.php:102
+#: evento/lib/php/widget/animated_sponsors.php:90
+#: evento/lib/php/widget/sponsors.php:126
+#: evento/lib/php/widget/presentations.php:105
+#: evento/lib/php/widget/testimonials.php:59
+#: evento/lib/php/widget/program.php:89
+#: evento/lib/php/widget/guests.php:80
+msgid "Please select Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/conferences.php:92
+msgid "Please select listing type"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/tweets.class.php:1
+msgid "Please set Twitter user name !!!"
+msgstr ""
+
+#. Text in echo
+#: evento/signup.php:2
+msgid "Please sign in using the form below"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Please specify quantity"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Popular Tags"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Post Author Box"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Post Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/main.php:1
+msgid "Posts tagged"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Presentation Posts Permalink slug"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Presentation Posts Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Presentation Speakers"
+msgstr ""
+
+#. Text in function
+#: evento/single-presentation.php:63
+msgid "Presentation speakers"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Presentation's Conferences"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:7
+#: evento/lib/php/resources.register.php:1
+msgid "Presentations"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/text.class.php:1
+msgid "Preview Text"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+#: evento/lib/php/resources.register.php:1
+msgid "Price"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/main.php:31
+msgid "Price Table"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:14
+msgid "Pricing"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Product Name"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:11
+msgid "Program"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Qty"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Qty Available"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Quantity available"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/contact.php:1
+msgid "Quick Contact form"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/flickr.php:71
+msgid "Random Photo"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Randomize files"
+msgstr ""
+
+#. Text in function
+#: evento/single-speaker.php:110
+#: evento/lib/php/resources.register.php:1
+msgid "Region"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+#: evento/lib/php/my_account.class.php:1
+#: evento/signup.php:25
+#: evento/lib/php/simple_modal_login.class.php:1
+#: evento/header.php:205
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/registration.php:72
+msgid "Registered"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Registered Guests"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Registration"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Registration type:"
+msgstr ""
+
+#. Text in function
+#: evento/related-posts.php:409
+msgid "Related Conferences"
+msgstr ""
+
+#. Text in function
+#: evento/related-posts.php:409
+msgid "Related Posts"
+msgstr ""
+
+#. Text in function
+#: evento/related-posts.php:409
+msgid "Related Presentations"
+msgstr ""
+
+#. Text in echo
+#: evento/signup.php:14
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Reset Password"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Resource Description"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Resource Title"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/options.register.php:1
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in echo
+#: evento/searchform.php:7
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Categories"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Conferences"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Exhibitors"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Presentations"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Speakers"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Sponsors"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Tags"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Search Testimonial"
+msgstr ""
+
+#. Text in echo
+#: evento/search.php:8
+msgid "Search results"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/main.php:1
+msgid "Search results for"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/exhibitors.php:52
+#: evento/lib/php/widget/registration.php:39
+#: evento/lib/php/shcode/conference.php:36
+#: evento/lib/php/widget/conferences.php:45
+#: evento/lib/php/widget/speakers.php:45
+#: evento/lib/php/widget/animated_sponsors.php:46
+#: evento/lib/php/widget/sponsors.php:51
+#: evento/lib/php/widget/presentations.php:47
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/widget/testimonials.php:36
+#: evento/lib/php/widget/program.php:48
+#: evento/lib/php/widget/guests.php:39
+msgid "Select Conference"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:2
+#: evento/lib/php/shcode/conference.php:5
+msgid "Select Conference Resource"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Select Event on Front Page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Exhibitor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Exhibitor for this Conference:"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:70
+msgid "Select Listing type"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/exhibitors.php:94
+#: evento/lib/php/widget/speakers.php:86
+#: evento/lib/php/widget/sponsors.php:94
+#: evento/lib/php/widget/presentations.php:89
+#: evento/lib/php/widget/program.php:73
+#: evento/lib/php/widget/guests.php:64
+msgid "Select Page for 'Read more' link"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:53
+#: evento/lib/php/resources.register.php:1
+msgid "Select Presentation"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Presentation for this Conference:"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Resource"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Select Slideshow on Front Page"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Speaker"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Sponsor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Sponsor for this Conference:"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select Testimonial for this Conference:"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Select Theme Background"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/exhibitors.php:69
+#: evento/lib/php/widget/conferences.php:54
+#: evento/lib/php/widget/speakers.php:61
+#: evento/lib/php/widget/sponsors.php:68
+#: evento/lib/php/widget/presentations.php:64
+msgid "Select category"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select currency"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Select front page resource type"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select layout type"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:73
+msgid "Select option"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select presentation's speaker(s)"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Select static page for front page"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/table.php:34
+msgid "Select table style:"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Select type of resource"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Separate markers with commas"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "September"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set background color"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set boxed content style"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set effect"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set footer background color"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Set image path"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set limit for Footer Menu"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set limit for Main Menu"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/price.php:2
+msgid "Set number of cols"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set the number of visible menu items. Remaining menu items<br />will be shown in the drop down menu item \"More\" ."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set the speed of the sliding animation in milliseconds."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Set title for new Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Settings -> Reading "
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:16
+msgid "Share on Facebook"
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:18
+msgid "Share on Reddit"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Shortcodes"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Show Log In link"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/social_media.php:72
+msgid "Show RSS"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Show author box"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/conferences.php:88
+msgid "Show images"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Show meta"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Show page meta"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Show post meta"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Show related conferences"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Show related posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Show related presentations"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Show ribbon on slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Show similar conferences"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Show similar posts"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Show similar presentations"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/options.register.php:1
+msgid "Show similar speakers"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Show social sharing"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/flickr.php:69
+msgid "Showing Method"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Shpping cart is empty"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Sidebar Manager"
+msgstr ""
+
+#. Text in echo
+#: evento/signup.php:17
+msgid "Sign in"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode.class.php:1
+msgid "Sign up"
+msgstr ""
+
+#. Text in function
+#: evento/related-posts.php:409
+msgid "Similar Speakers"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/options.register.php:1
+msgid "Slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Slideshow Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Slideshow items"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/widget/social_media.php:1
+msgid "Social Media"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Social Settings"
+msgstr ""
+
+#. Text in echo
+#: evento/front-page.php:13
+#: evento/lib/php/my_account.class.php:1
+msgid "Sorry, no conferences found"
+msgstr ""
+
+#. Text in echo
+#: evento/loop-404.php:21
+msgid "Sorry, no post found"
+msgstr ""
+
+#. Text in echo
+#: evento/search.php:52
+#: evento/lib/php/extra.class.php:1
+msgid "Sorry, no results found."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Speaker"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Speaker Posts Permalink slug"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Speaker Posts Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Speaker Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Speaker's Presentations"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:8
+#: evento/lib/php/resources.register.php:1
+msgid "Speakers"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/actions.register.php:1
+msgid "Special area for small icons"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Sponsor Info"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Sponsor Posts Permalink slug"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Sponsor Posts Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Sponsor Settings"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Sponsor URL"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Sponsor's Conferences"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:10
+#: evento/lib/php/resources.register.php:1
+msgid "Sponsors"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Start event"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/main.php:1
+msgid "Status: "
+msgstr ""
+
+#. Text in function
+#: evento/single-speaker.php:110
+msgid "Studies"
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:17
+msgid "Stumble it"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Styling Settings"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/contact.class.php:73
+msgid "Submit form"
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:24
+msgid "Subscribe to RSS"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Subtotal:"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/main.php:32
+msgid "Table"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/table.php:3
+msgid "Table title:"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/main.php:26
+msgid "Tabs &amp; Toggles"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Testimonial"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Testimonial's Conferences"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/conference.php:13
+#: evento/lib/php/resources.register.php:1
+msgid "Testimonials"
+msgstr ""
+
+#. Text in echo
+#: evento/page.php:26
+msgid "This is the list of the upcoming events. Please register as guest for the desired conference."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "This key is neded if you want to use google map in contact form."
+msgstr ""
+
+#. Text in echo
+#: evento/comments.php:64
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "This will enable the page author box on the single page.<br /> Edit description in Users > Your Profile."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "This will enable the post author box on the single posts page.<br /> Edit description in Users > Your Profile."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Ticket Category"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Time between slide animation in milliseconds"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/tweets.php:35
+#: evento/lib/php/widget/flickr.php:52
+#: evento/lib/php/widget/exhibitors.php:47
+#: evento/lib/php/widget/registration.php:34
+#: evento/lib/php/widget/conferences.php:41
+#: evento/lib/php/widget/speakers.php:40
+#: evento/lib/php/widget/animated_sponsors.php:42
+#: evento/lib/php/widget/sponsors.php:47
+#: evento/lib/php/widget/presentations.php:42
+#: evento/lib/php/resources.register.php:1
+#: evento/lib/php/widget/social_media.php:48
+#: evento/lib/php/widget/testimonials.php:31
+#: evento/lib/php/widget/program.php:42
+#: evento/lib/php/widget/contact.php:23
+#: evento/lib/php/widget/guests.php:35
+#: evento/lib/php/widget/latest_posts.php:101
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/map.class.php:270
+msgid "Title Info"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "To add speaker photo please "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "To add sponsor photo please "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/meta.class.php:1
+msgid "To change attachment click on the icon"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Total"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/animated_sponsors.php:65
+msgid "Total number of sponsors to display"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in echo
+#: evento/social-sharing.php:15
+msgid "Tweet this!"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+#: evento/lib/php/widget/social_media.php:57
+msgid "Twitter ID"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/tweets.php:39
+msgid "Twitter User Name"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Twitter widget update interval"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Type Title "
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/main.php:28
+msgid "Typography"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/tweets.class.php:1
+msgid "Unable to read tweets !!!"
+msgstr ""
+
+#. Text in echo
+#: evento/search.php:62
+msgid "Unfortunately we did not find any results for your request."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Unfortunately we do not have enough tickets, please try adding smaller quantity"
+msgstr ""
+
+#. Text in function
+#: evento/single-speaker.php:110
+msgid "University"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Update Category"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "Update Tag"
+msgstr ""
+
+#. Text in echo
+#: evento/signup.php:10
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/simple_modal_login.class.php:1
+msgid "Username or E-mail:"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.class.php:234
+msgid "Version"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/meta.class.php:1
+msgid "Video player loads here."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "View Conference"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "View Exhibitor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "View Presentation"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "View Slideshow"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "View Speaker"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "View Sponsor"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "View Testimonial"
+msgstr ""
+
+#. Text in echo
+#: evento/loop-404.php:21
+msgid "We apologize but this page, post or resource does not exist or can not be found. Perhaps it is necessary to change the call method to this page, post or resource."
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/fields.class.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: evento/breadcrumbs.php:6
+msgid "You are here"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Your Email *"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Your Name *"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Your PayPal&reg; API Password"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Your PayPal&reg; API Signature"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Your PayPal&reg; API Username"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "Your PayPal&reg; EMail Address"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/contact.php:37
+msgid "Your browser does not support iframes."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/cart.class.php:1
+msgid "Your cart is currently empty"
+msgstr ""
+
+#. Text in echo
+#: evento/comments.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/contact.class.php:67
+#: evento/lib/php/widget/contact.php:27
+msgid "Your email"
+msgstr ""
+
+#. Text in function
+#: evento/comments.php:108
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/contact.class.php:64
+msgid "Your name"
+msgstr ""
+
+#. Text in function
+#: evento/post-meta-top.php:4
+msgid "at"
+msgstr ""
+
+#. Text in echo
+#: evento/category.php:8
+msgid "category archives: "
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "check for boxed content style."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "check to show \"Log In\" link."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "check to show \"register\" link."
+msgstr ""
+
+#. Text in echo
+#: evento/signup.php:26
+msgid "close"
+msgstr ""
+
+#. Text in function
+#: evento/front-page.php:13
+#: evento/lib/php/conference.class.php:1
+msgid "continue reading"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/contact.class.php:80
+msgid "error, fill all required fields ( name )"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/contact.class.php:80
+msgid "error, sending email failed"
+msgstr ""
+
+#. Text in function
+#: evento/slideshow.php:280
+msgid "guest"
+msgstr ""
+
+#. Text in function
+#: evento/slideshow.php:280
+msgid "guests"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/contact.php:35
+msgid "here"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.class.php:234
+msgid "is available, please update now."
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.class.php:234
+msgid "label"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/extra.class.php:1
+msgid "main sidebar"
+msgstr ""
+
+#. Text in function
+#: evento/slideshow.php:280
+msgid "presentation"
+msgstr ""
+
+#. Text in function
+#: evento/slideshow.php:280
+msgid "presentations"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/registration.php:72
+msgid "register for the event"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/registration.php:41
+msgid "select conference"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/shcode/price.php:5
+msgid "select number of columns"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/resources.register.php:1
+msgid "set featured image"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/exhibitors.php:122
+#: evento/lib/php/widget/sponsors.php:122
+msgid "show description"
+msgstr ""
+
+#. Text in echo
+#: evento/lib/php/widget/animated_sponsors.php:86
+msgid "show sponsor name"
+msgstr ""
+
+#. Text in function
+#: evento/slideshow.php:280
+msgid "speaker"
+msgstr ""
+
+#. Text in function
+#: evento/slideshow.php:280
+msgid "speakers"
+msgstr ""
+
+#. Text in echo
+#: evento/tag.php:9
+msgid "tags archives: "
+msgstr ""
+
+#. Text in function
+#: evento/archive_custom.php:1
+msgid "testimonial"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.register.php:1
+msgid "to change blog title go to <a href=\"options-general.php\">general settings </a> "
+msgstr ""
+
+#. Text in echo
+#: evento/searchform.php:4
+msgid "to search, type and hit enter"
+msgstr ""
+
+#. Text in function
+#: evento/lib/php/options.class.php:234
+msgid "version"
+msgstr ""

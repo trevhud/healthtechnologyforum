@@ -1,0 +1,65 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.0.13
+  https://marketpress.com/product/backwpup-pro/
+  Blog Name: Health Technology Forum
+  Blog URL: http://www.healthtechnologyforum.com
+  Generated on: 2013-12-01 03:00.52
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Acurax Social Media Widget (v.1.3) from Acurax
+	http://www.acurax.com/products/floating-social-media-icon-plugin-wordpress/
+Akismet (v.2.5.9) from Automattic
+	http://akismet.com/?return=true
+All In One SEO Pack (v.2.0.4) from Michael Torbert
+	http://semperfiwebdesign.com
+BackWPup (v.3.0.13) from Inpsyde GmbH
+	https://marketpress.com/product/backwpup-pro/
+Content Slide Plugin (v.1.4.2) from Snilesh
+	http://www.snilesh.com/resources/wordpress/wordpress-plugins/wordpress-content-slide-plugin/
+Easy Social (v.1.3) from Alex Thorpe
+	http://www.alexthorpe.com
+Google Doc Embedder (v.2.5.8) from Kevin Davis
+	http://www.davistribe.org/gde/
+Google XML Sitemaps (v.3.3) from Arne Brachhold
+	http://www.arnebrachhold.de/redir/sitemap-home/
+GroupDocs Viewer Embedder (v.1.3.12) from GroupDocs Team <support@groupdocs.com>
+	http://www.groupdocs.com/
+Jetpack by WordPress.com (v.2.5) from Automattic
+	http://wordpress.org/extend/plugins/jetpack/
+jQuery Colorbox (v.4.6) from Arne Franken
+	http://www.techotronic.de/plugins/jquery-colorbox/
+Medicare Quote Widget (v.1.4) from Trevor Hudson - eHealth Medicare
+	http://blog.ehealthmedicare.com/medicare-quote-widget
+Simple Popup Plugin (v.4.2) from Garrett Grimm
+	http://www.grimmdude.com/wordpress-simple-popup-plugin
+Ultimate Tables (v.1.2) from extendyourweb.com
+	http://www.extendyourweb.com/product/ultimate-tables/
+Ultimate TinyMCE (v.5.0) from Josh Lobe
+	http://www.plugins.joshlobe.com/
+WP Meetup (v.1.5.3) from Nuanced Media
+	http://nuancedmedia.com/wordpress-meetup-plugin/
+
+Active plugins:
+------------------------------
+Acurax Social Media Widget
+Akismet
+All In One SEO Pack
+BackWPup
+Content Slide Plugin
+Easy Social
+Google XML Sitemaps
+GroupDocs Viewer Embedder
+Jetpack by WordPress.com
+jQuery Colorbox
+Medicare Quote Widget
+Simple Popup Plugin
+Ultimate Tables
+Ultimate TinyMCE
+WP Meetup
+
+Inactive plugins:
+------------------------------
+Google Doc Embedder
